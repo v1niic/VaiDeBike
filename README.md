@@ -1,6 +1,6 @@
 # VaiDeBike Fortaleza — versão JavaScript
 
-Mesmo app, só com o que já estudamos: **HTML, CSS, JavaScript, Node, Express, React e MySQL**.
+App feito o que já estudamos: **HTML, CSS, JavaScript, Node, Express, React e MySQL**.
 
 Nesta 1ª entrega (núcleo): cadastro/login, mapa com as ciclovias, buscar lugar, traçar rota de bike e reportar obstáculos.
 
